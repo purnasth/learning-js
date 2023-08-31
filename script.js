@@ -46,3 +46,21 @@ Math.ceil()
 // let randomNumberAfterCeil = Math.ceil(randomNumber);
 
 // console.log("Random number after ceil function:", randomNumberAfterCeil);
+
+let number1 = 7.893456;
+console.log("Number 1 = ", number1);
+console.log("Random Number (0 <= x < 10) = ", Math.random() * 10);
+console.log("Used toFixed(2) = ", number1.toFixed(2));
+console.log("Used Round() = ", Math.round(number1));
+console.log("Used floor() = ", Math.floor(number1));
+console.log("Used ceil() = ", Math.ceil(number1));
+
+console.log("\n");
+
+let number2 = 4.267891;
+console.log("Number 2 = ", number2);
+console.log("Random Number (0 <= x < 10) = ", Math.random() * 10);
+console.log("Used toFixed(3) = ", number2.toFixed(3));
+console.log("Used Round() = ", Math.round(number2));
+console.log("Used floor() = ", Math.floor(number2));
+console.log("Used ceil() = ", Math.ceil(number2));
