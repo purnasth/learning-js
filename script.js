@@ -47,6 +47,8 @@ Math.ceil()
 
 // console.log("Random number after ceil function:", randomNumberAfterCeil);
 
+console.log("DAY 1 ASSIGNMENT\n\n");
+
 let number1 = 7.893456;
 console.log("Number 1 = ", number1);
 console.log("Random Number (0 <= x < 10) = ", Math.random() * 10);
@@ -64,3 +66,11 @@ console.log("Used toFixed(3) = ", number2.toFixed(3));
 console.log("Used Round() = ", Math.round(number2));
 console.log("Used floor() = ", Math.floor(number2));
 console.log("Used ceil() = ", Math.ceil(number2));
+
+console.log("\n\nAPPLICATION OF MATH FUNCTIONS\n\n");
+console.log("Dice Roll");
+
+let diceRoll = Math.random() * 6;
+console.log(Math.ceil(diceRoll));
+
+//? NOTE: here floor(), round() can't be used .. because .. there is no 0 in dice
