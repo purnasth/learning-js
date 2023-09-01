@@ -5,11 +5,12 @@ console.log("Number Guessing Game\n");
 let userInput = window.prompt("Enter a number in between 1 and 3: ");
 
 userInput = Number(userInput);
+// userInput = parseInt(userInput);
 // console.log(typeof userInput);
 
 console.log("User input = ", userInput);
 
-let computerGuess = Math.round(Math.random() * 3);
+let computerGuess = Math.ceil(Math.random() * 3);
 
 console.log("Computer guess = ", computerGuess);
 
