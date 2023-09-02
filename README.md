@@ -59,3 +59,7 @@
     Project: Print the day of the week using switch case.
 
 18. for loop.
+
+19. while loop.
+
+    Number Guessing Game using while loop
