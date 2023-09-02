@@ -53,3 +53,7 @@
 15. Logical Operator. && || !
 
 16. Ternary Operator.
+
+17. Switch Case.
+
+    Project: Print the day of the week using switch case.
