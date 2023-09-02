@@ -34,6 +34,8 @@
 
 12. Introduction to Array.
 
+##
+
 13. Type Coercion and Type Conversion.
 
 14. if, if else, else if
@@ -49,3 +51,5 @@
     - Use if else and print "WIN" if the user's guess and computer generated number is equal. else print "Try Again!" in the console.
 
 15. Logical Operator. && || !
+
+16. Ternary Operator.
