@@ -57,3 +57,5 @@
 17. Switch Case.
 
     Project: Print the day of the week using switch case.
+
+18. for loop.
