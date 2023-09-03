@@ -65,3 +65,12 @@
     Number Guessing Game using while loop
 
 20. do while loop.
+
+
+## Scope
+
+21. Global Variable.
+
+22. Local variable.
+
+##
