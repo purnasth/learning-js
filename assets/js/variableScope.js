@@ -1,5 +1,5 @@
 console.log("\n\n");
-console.log("DAY 11 do while loop\n\n");
+console.log("DAY 11 Global & Local Variable.\n\n");
 
 let userName = "Purna";
 

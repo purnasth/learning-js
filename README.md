@@ -73,4 +73,6 @@
 
 22. Local variable.
 
-##
+## Functions
+
+23. Introduction to functions.
