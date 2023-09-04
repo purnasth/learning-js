@@ -87,3 +87,11 @@
 26. return keyword.
 
     Project: Calculate the area of a circle or rectangle from user.
+
+##
+
+27. Function in a variable.
+
+28. Hoisting of a function declarations.
+
+    Explanation : function calling can be defined above or below the function and it works fine but if you store function in a variable and call the function before the function block the code will not be executed.
