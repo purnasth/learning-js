@@ -80,3 +80,5 @@
     Project Dice Roll Functions
 
 24. Functions with one argument.
+
+25. Functions with two argument.
