@@ -76,3 +76,7 @@
 ## Functions
 
 23. Introduction to functions.
+
+    Project Dice Roll Functions
+
+24. Functions with one argument.
