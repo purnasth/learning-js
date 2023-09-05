@@ -13,7 +13,7 @@
 6. Introduction to Variables.
 7. Introduction to Variable Declaration.
 8. Introduction to Data Types.
-9. Concatenation.
+9. Concatenation & Type Conversion.
 
 ## Operators
 
