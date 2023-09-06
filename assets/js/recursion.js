@@ -8,23 +8,31 @@ console.log("Recursion \n");
 
 // recurse();
 
-// program to find the factorial of a number
-function factorial(x) {
-  // if number is 0
-  if (x === 0) {
-    return 1;
-  }
+console.log("JS program to set the countdown\n");
 
-  // if number is positive
-  else {
+function countDown(number) {
+  console.log(number);
+
+  let newNumber = number - 1;
+
+  if (newNumber > 0) {
+    countDown(newNumber);
+  }
+}
+countDown(4);
+
+console.log("JS program to find the factorial of a number\n");
+function factorial(x) {
+  if (x == 0) {
+    return 1;
+  } else {
     return x * factorial(x - 1);
   }
 }
+const num = 5;
+console.log("number = ", num);
 
-const num = 3;
-
-// calling factorial() if num is non-negative
 if (num > 0) {
   let result = factorial(num);
-  console.log(`The factorial of ${num} is ${result}`);
+  console.log(`The factorial of ${num} is ${result}.`);
 }
