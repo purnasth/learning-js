@@ -66,6 +66,8 @@
 
 20. do while loop.
 
+    break; continue;
+
 ## Scope
 
 21. Global Variable.
