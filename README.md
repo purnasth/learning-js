@@ -103,3 +103,5 @@
 ## Objects 
 
 30. JavaScript Objects.
+
+31. JavaScript Methods and this keyword.
