@@ -99,3 +99,7 @@
     Explanation : function calling can be defined above or below the function and it works fine but if you store function in a variable and call the function before the function block the code will not be executed.
 
 29. Recursion with projects.
+
+## Objects 
+
+30. JavaScript Objects.
