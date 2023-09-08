@@ -33,6 +33,7 @@
 ## Array
 
 12. Introduction to Array.
+    Multidimensional Array.
 
 ##
 
@@ -105,3 +106,11 @@
 30. JavaScript Objects.
 
 31. JavaScript Methods and this keyword.
+
+32. Constructor
+
+33. Getter and Setter
+
+34. Prototype.
+
+35. for ... in loop
