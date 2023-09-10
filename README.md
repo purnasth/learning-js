@@ -118,3 +118,7 @@
 36. try catch finally throw.
 
 37. JavaScript Modules.
+    => import export
+    => default import export
+    => alias
+    => namespaces
