@@ -15,6 +15,11 @@ import { greetPerson } from "./modules/greet.js";
 // another method of importing default export
 import sayName from "./modules/sayName.js";
 
+// combined export
+// import * as combine from "./modules/combine.js";
+
+// console.log(combine.calc.sum(1, 2));
+
 console.log(sum(1, 2));
 console.log(subtract(1, 2));
 
