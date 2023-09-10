@@ -122,3 +122,5 @@
     => default import export
     => alias
     => namespaces
+    => combined export
+    => dynamic import modules
