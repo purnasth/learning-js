@@ -101,7 +101,7 @@
 
 29. Recursion with projects.
 
-## Objects 
+## Objects
 
 30. JavaScript Objects.
 
@@ -114,3 +114,13 @@
 34. Prototype.
 
 35. for ... in loop
+
+36. try catch finally throw.
+
+37. JavaScript Modules.
+    => import export
+    => default import export
+    => alias
+    => namespaces
+    => combined export
+    => dynamic import modules
