@@ -139,3 +139,6 @@
 
     - let, const
     - arrow function
+    - destructing
+
+39. Arrow function
