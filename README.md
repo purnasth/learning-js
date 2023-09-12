@@ -132,3 +132,10 @@
     - namespaces
     - combined export
     - dynamic import modules
+
+## JavaScript Es6
+
+38. Introduction to JS ES6
+
+    - let, const
+    - arrow function
