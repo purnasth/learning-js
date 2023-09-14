@@ -142,3 +142,7 @@
     - destructing
 
 39. Arrow function
+
+40. Default Parameters
+
+41. Template Literals
