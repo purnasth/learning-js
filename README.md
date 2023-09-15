@@ -146,3 +146,5 @@
 40. Default Parameters
 
 41. Template Literals
+
+42. Spread Operator
