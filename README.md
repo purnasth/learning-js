@@ -148,3 +148,5 @@
 41. Template Literals
 
 42. Spread Operator
+
+43. JavaScript Map
